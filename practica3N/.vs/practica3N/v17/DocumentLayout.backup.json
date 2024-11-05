@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\OneDrive\\Documentos\\UAM\\IISEMESTRE\\MYPE\\IIICE\\practica3N\\practica3N\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8A1EB9-B723-4075-B7AC-5A394AC1A0B2}|practica3N\\practica3N.csproj|c:\\users\\carlo\\onedrive\\documentos\\uam\\iisemestre\\mype\\iiice\\practica3n\\practica3n\\practica3n\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8A1EB9-B723-4075-B7AC-5A394AC1A0B2}|practica3N\\practica3N.csproj|solutionrelative:practica3n\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8A1EB9-B723-4075-B7AC-5A394AC1A0B2}|practica3N\\practica3N.csproj|c:\\users\\carlo\\onedrive\\documentos\\uam\\iisemestre\\mype\\iiice\\practica3n\\practica3n\\practica3n\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C8A1EB9-B723-4075-B7AC-5A394AC1A0B2}|practica3N\\practica3N.csproj|solutionrelative:practica3n\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Documentos\\UAM\\IISEMESTRE\\MYPE\\IIICE\\practica3N\\practica3N\\practica3N\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "practica3N\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Documentos\\UAM\\IISEMESTRE\\MYPE\\IIICE\\practica3N\\practica3N\\practica3N\\RegistrationForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "practica3N\\RegistrationForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:16:51.602Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Documentos\\UAM\\IISEMESTRE\\MYPE\\IIICE\\practica3N\\practica3N\\practica3N\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "practica3N\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Documentos\\UAM\\IISEMESTRE\\MYPE\\IIICE\\practica3N\\practica3N\\practica3N\\RegistrationForm.cs",
+              "RelativeToolTip": "practica3N\\RegistrationForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACkAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:16:57.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

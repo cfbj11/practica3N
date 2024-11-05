@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IIICE\practica3N\practica3N\practica3N\obj\Debug\practica3N.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IIICE\practica3N\practica3N\practica3N\obj\Debug\practica3N.LoginForm.resources
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IIICE\practica3N\practica3N\practica3N\obj\Debug\practica3N.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IIICE\practica3N\practica3N\practica3N\obj\Debug\practica3N.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IIICE\practica3N\practica3N\practica3N\obj\Debug\practica3N.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IIICE\practica3N\practica3N\practica3N\bin\Debug\practica3N.exe.config
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IIICE\practica3N\practica3N\practica3N\bin\Debug\practica3N.exe
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IIICE\practica3N\practica3N\practica3N\bin\Debug\practica3N.pdb
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IIICE\practica3N\practica3N\practica3N\bin\Debug\MetroFramework.Design.dll
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IIICE\practica3N\practica3N\practica3N\bin\Debug\MetroFramework.dll
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IIICE\practica3N\practica3N\practica3N\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IIICE\practica3N\practica3N\practica3N\obj\Debug\practica3N.csproj.Up2Date
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IIICE\practica3N\practica3N\practica3N\obj\Debug\practica3N.exe
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IIICE\practica3N\practica3N\practica3N\obj\Debug\practica3N.pdb
+C:\Users\carlo\OneDrive\Documentos\UAM\IISEMESTRE\MYPE\IIICE\practica3N\practica3N\practica3N\obj\Debug\practica3N.RegistrationForm.resources
